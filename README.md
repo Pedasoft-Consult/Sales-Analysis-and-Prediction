@@ -1,7 +1,3 @@
-# class-work
-Python Data Engineering class
-
-
 # Sales Analysis and Prediction
 
 This project analyzes sales data and predicts future trends using a Random Forest classifier. The workflow includes data cleaning, visualization, and machine learning. It utilizes PySpark for data processing and Python libraries for analysis and visualization.
